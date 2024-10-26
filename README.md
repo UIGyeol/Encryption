@@ -1,3 +1,3 @@
 # Encryption
-learning, reviewing and making encryption encryption Algorithm.
+learning, reviewing and making encryption algorithm.
 
